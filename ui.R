@@ -5,7 +5,7 @@ data('df_state_demographics')
 shinyUI(fluidPage(  #fluidpage() function to make the application stable
   
   #Application Title
-  titlePanel("USA CEncus - By Burhan Reshi"),
+  titlePanel("USA CENSUS - By Burhan Reshi"),
   
   #Sidebar with a slider input for another number of bins
   sidebarLayout(
